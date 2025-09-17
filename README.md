@@ -1,6 +1,6 @@
 ## Raw data file name : `layoffs.csv`
-## Cleaning Steps (what the script does)
-
+## Data cleaning file name : `data
+##Cleaning Steps (what the script does)
 ### 1) Create Staging & Copy Raw
 - CREATE TABLE layoffs_staging LIKE layoffs;
 - Copy raw into staging:
