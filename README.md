@@ -1,4 +1,4 @@
-## Download raw data set:
+## Raw data file name : `layoffs.csv`
 ## Cleaning Steps (what the script does)
 
 ### 1) Create Staging & Copy Raw
