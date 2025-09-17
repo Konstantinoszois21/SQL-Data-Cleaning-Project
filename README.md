@@ -1,4 +1,4 @@
-## Raw table name : `layoffs'
+## Download raw data set:
 ## Cleaning Steps (what the script does)
 
 ### 1) Create Staging & Copy Raw
